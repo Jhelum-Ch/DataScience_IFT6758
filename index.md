@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jhelum Chakravorty
 
 You can use the [editor on GitHub](https://github.com/Jhelum-Ch/jchakravorty.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
