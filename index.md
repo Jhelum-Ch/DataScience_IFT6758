@@ -6,7 +6,10 @@ layout: default
 Welcome to Data Science Course! In this course we will cover... (_complete this_)
 
 ### Logistics  
-_Add a survey form here_
+**Survey form**: _Add a survey form here_  
+
+**Evaluation**: Homeworks (4) 30%, Kaggle competition 15%, Midterm 30%, Final project 25%
+
 
 ### Resources  
 - **Books**
