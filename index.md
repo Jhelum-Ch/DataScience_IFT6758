@@ -12,6 +12,7 @@ _Add a survey form here_
 - **Books**
 1. [An Introduction to Statistical Learning (ISLR)](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 1. [Python Data Science Handbook (PDS)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+1. [Introduction to Data Science (IDS)](https://rafalab.github.io/dsbook/)
 
 
 <!--
