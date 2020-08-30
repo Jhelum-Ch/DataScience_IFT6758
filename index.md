@@ -22,7 +22,7 @@ Welcome to Data Science Course! In this course we will cover... (_complete this_
 1. [Harvard Data Science (CS109)](https://cs109.github.io/2015/)
 
 - **Other**
-1. [Harvar's Data Science Review](https://hdsr.mitpress.mit.edu/)
+1. [Harvard's Data Science Review](https://hdsr.mitpress.mit.edu/)
 
 
 <!--
