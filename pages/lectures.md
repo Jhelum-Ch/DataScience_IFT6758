@@ -1,5 +1,6 @@
 ---
+title: Lectures
 layout: default
 ---
 
-Placeholder for lectures
+Placeholder for lectures new 
