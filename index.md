@@ -14,6 +14,13 @@ _Add a survey form here_
 1. [Python Data Science Handbook (PDS)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 1. [Introduction to Data Science (IDS)](https://rafalab.github.io/dsbook/)
 
+- **Online courses** 
+1. [freeCodeCamp](https://www.freecodecamp.org/news/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e/)
+1. [Harvard Data Science (CS109)](https://cs109.github.io/2015/)
+
+- **Other**
+1. [Harvar's Data Science Review](https://hdsr.mitpress.mit.edu/)
+
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
