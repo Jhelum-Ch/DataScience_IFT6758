@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Placeholder place for labs
+Placeholder for labs
