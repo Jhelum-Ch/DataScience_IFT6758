@@ -2,7 +2,8 @@
 layout: default
 ---
 
-This is test line
+**Welcome note**
+Welcome to Data Science Course! In this course we will cover...
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
