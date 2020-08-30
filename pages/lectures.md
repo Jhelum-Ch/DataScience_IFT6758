@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Placeholder place for lectures
+Placeholder for lectures
