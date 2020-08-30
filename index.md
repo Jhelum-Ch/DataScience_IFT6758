@@ -2,10 +2,13 @@
 layout: default
 ---
 
-**Welcome note**
+**Welcome note**  
 Welcome to Data Science Course! In this course we will cover...
 
+
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+-->
 
 [Link to another page](./another-page.html).
 
