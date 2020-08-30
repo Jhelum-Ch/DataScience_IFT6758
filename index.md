@@ -2,8 +2,15 @@
 layout: default
 ---
 
-**Welcome note**  
-Welcome to Data Science Course! In this course we will cover...
+### Welcome note    
+Welcome to Data Science Course! In this course we will cover... (_complete this_)
+
+### Logistics  
+_Add a survey form here_
+
+### Resources  
+- Books
+1. [An Introduction to Statistical Learning (ISLR)](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 
 
 <!--
