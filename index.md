@@ -9,8 +9,9 @@ Welcome to Data Science Course! In this course we will cover... (_complete this_
 _Add a survey form here_
 
 ### Resources  
-- Books
+- **Books**
 1. [An Introduction to Statistical Learning (ISLR)](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+1. [Python Data Science Handbook (PDS)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
 <!--
