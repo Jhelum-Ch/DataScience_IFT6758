@@ -39,7 +39,7 @@ The goal of this course is to introduce the concepts (theory and practice) neede
 ### Labs
 The labs would essentially be tutorial sessions to learn about various essential frameworks and tools used in data science. It will be a chance to apply the ideas gained from the lectures using python programming. These are also opportunities to get familiar with these frameworks and gain practice to do the data challenge and the final course project, and of course to apply them to your own data science problems that you deal with later. 
 
-Some framewrks/libraries that would be covered in the lab sessions are :
+Some frameworks/libraries that would be covered in the lab sessions are :
 1. numpy
 2. scipy
 3. matplotlib	
