@@ -1,6 +1,6 @@
 ---
 title: Lectures
-description: This page contains slides of the lectures. 
+description: This page contains presentation slides of the lectures. 
 layout: default
 ---
 ### Downloadable _Read only_ Powerpoint presentations
