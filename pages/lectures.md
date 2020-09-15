@@ -17,7 +17,7 @@ layout: default
 - [Lecture 3: Data Visualization and Reshaping](/DataScience_IFT6758/media/Lecture-3-full.pdf)
   - [Part 1: Principles of Data Visualization](/DataScience_IFT6758/media/Lecture-3.1.pdf)
   - [Part 2: Data Reshaping](/DataScience_IFT6758/media/Lecture-3.2.pdf)
-- [Lecture 4: Function Fitting](/DataScience_IFT6758/media/Lecture-4-full.pdf)\
+- [Lecture 4: Function Fitting](/DataScience_IFT6758/media/Lecture-4-full.pdf)
   - [Part 1: Finding a Good Model](/DataScience_IFT6758/media/Lecture-4.1.pdf)
   - [Part 2: Model Families and KNN Regression](/DataScience_IFT6758/media/Lecture-4.2.pdf)
   - [Part 3: KNN Classification, Linear Regression and Decision Trees](/DataScience_IFT6758/media/Lecture-4.3.pdf)
