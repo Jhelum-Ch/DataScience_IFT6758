@@ -13,3 +13,5 @@ layout: default
   - [Part 3: Data transformation](/DataScience_IFT6758/media/Lecture-2.3.pdf)
   - [Part 4: Principles of Data Visualization](/DataScience_IFT6758/media/Lecture-2.4.pdf)
 
+**Week 2**:
+- [Lecture 3: Principles of Data Visualization]
