@@ -14,4 +14,7 @@ layout: default
   - [Part 4: Principles of Data Visualization](/DataScience_IFT6758/media/Lecture-2.4.pdf)
 
 **Week 2**:
-- [Lecture 3: Principles of Data Visualization]
+- [Lecture 3: Data Visualization and Reshaping](/DataScience_IFT6758/media/Lecture-3-full.pdf)
+  - [Part 1: Principles of Data Visualization](/DataScience_IFT6758/media/Lecture-3.1.pdf)
+  - [Part 2: Data Reshaping](/DataScience_IFT6758/media/Lecture-3.2.pdf)
+- [Lecture 4: Function Fitting]
