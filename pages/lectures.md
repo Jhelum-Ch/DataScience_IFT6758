@@ -22,3 +22,7 @@ layout: default
   - [Part 2: Model Families and KNN Regression](/DataScience_IFT6758/media/Lecture-4.2.pdf)
   - [Part 3: KNN Classification, Linear Regression and Decision Trees](/DataScience_IFT6758/media/Lecture-4.3.pdf)
   - [Part 4: Linear Regression and Decision Trees](https://observablehq.com/@jhelum-ch/function-fitting-crash-course)
+  
+**Week 3**:
+- [Lecture 5: Decision trees](https://observablehq.com/@jhelum-ch/function-fitting-crash-course)
+  - [Demo](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
